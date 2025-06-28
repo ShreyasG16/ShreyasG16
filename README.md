@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding.." width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasg16&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasg16" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreyas-gore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-gore" height="30" width="40" /></a>
@@ -57,7 +55,12 @@
 <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" alt="gemini" width="40" height="40"/>
 </a>
-
+<a href="https://ai.meta.com/llama/" target="_blank" rel="noreferrer">
+  <img src="https://custom.typingmind.com/assets/models/llama.png" alt="LLaMA" width="40" height="40"/>
+</a>
+<a href="https://huggingface.co/docs/transformers/main/en/model_doc/rag" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="RAG" width="40" height="40"/>
+</a>
 </p>
 
 
