@@ -1,6 +1,7 @@
 <!--![logo](https://github.com/ShreyasG16/ShreyasG16/blob/main/Shreyas%20Gore.png)-->
-<h1 align="center">Hi 👋, I'm Shreyas Gore, thanks for visiting my profile 🏅</h1>
-<h3 align="center">MTech-CSE @IIITD'26</h3>
+<h1 align="center">Shreyas Gore</h1>
+<h3 align="center">M.Tech in CSE @ IIIT-Delhi (2024–2026)</h3>
+
 
 <img align="right" alt="Coding.." width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
 
