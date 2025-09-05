@@ -1,9 +1,9 @@
 <!--![logo](https://github.com/ShreyasG16/ShreyasG16/blob/main/Shreyas%20Gore.png)-->
 <h1 align="center">Shreyas Gore</h1>
-<h3 align="center">M.Tech in CSE @ IIIT-Delhi (2024–2026)</h3>
+<h3 align="center">M.Tech in CSE @ IIIT - Delhi ' 26 </h3>
 
 
-<img align="right" alt="Coding.." width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
+<!--<img align="right" alt="Coding.." width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
